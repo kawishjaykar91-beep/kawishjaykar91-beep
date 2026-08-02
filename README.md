@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Kawish</h1>
 
-<!--
-**kawishjaykar91-beep/kawishjaykar91-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">⚡ Building ideas that don't exist yet.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🚀 Turning curiosity into code • 🤖 AI • ⚙️ Engineering • 🌍 Open Source
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🤖 Exploring AI & Machine Learning
+- ⚙️ student
+- 💻 Building cool projects
+- 🌱 Learning something new every day
+- 🚀 Open Source Enthusiast
