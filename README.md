@@ -10,7 +10,7 @@
 <h3 align="center">⚡ Building ideas that don't exist yet.</h3>
 
 <p align="center">
-🚀 Turning curiosity into code • 🤖 AI • ⚙️ Engineering • 🌍 Open Source
+🚀 Turning curiosity into code • 🤖 AI • 🌍 Open Source
 </p>
 
 ---
@@ -31,10 +31,3 @@
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kawish_jaykar2508&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawish_jaykar2508&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
