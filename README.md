@@ -22,3 +22,19 @@
 - 💻 Building cool projects
 - 🌱 Learning something new every day
 - 🚀 Open Source Enthusiast
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,html,js"/>
+</p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kawish_jaykar2508&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawish_jaykar2508&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
